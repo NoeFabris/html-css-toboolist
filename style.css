@@ -52,13 +52,36 @@ body{
 }
 .newtask{
     margin-left: 50px;
-    padding: 30px;
-    display: inline-block;
+    padding: 30px; 
+       /* display: inline-block; */
+    vertical-align: middle
+
 }
-.editorial{
+.etichetta{
     color: white;
     display: inline-block;
-    padding: 7px;
-    border-radius: 7px;
+    padding: 10px;
+    border-radius: 12px;
+    margin-top: 5px;
+}
+.elenco{
+    margin-top: 10px;
+}
+.editorial{
     background-color: rgb(0, 153, 255)
+}
+.Q1G{
+    background-color: rgb(185, 30, 160)
+}
+.recruiting{
+    background-color: rgb(30, 185, 159)
+}
+.mobile{
+    background-color: rgb(231, 171, 42)
+}
+.website{
+    background-color: rgb(185, 30, 69)
+}
+.sales{
+    background-color: rgb(30, 185, 113)
 }
