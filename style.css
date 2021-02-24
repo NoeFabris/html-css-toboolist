@@ -1,11 +1,11 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
- background-color: rgba(149, 163, 163, 0.534);
+    background-color: rgba(149, 163, 163, 0.534);
 }
 .testata{
     width: 100%;
@@ -25,7 +25,6 @@ body{
 .box{
     background-color: white;
     width: 70vw;
-    height: 70vh;
     margin: auto;
     margin-top: 70px;
     border-radius: 1%;
@@ -62,7 +61,6 @@ body{
     display: inline-block;
     padding: 10px;
     border-radius: 12px;
-    margin-top: 5px;
 }
 .elenco{
     margin-top: 10px;
